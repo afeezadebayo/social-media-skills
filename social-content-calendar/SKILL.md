@@ -76,7 +76,7 @@ For example LinkedIn: founder three times, brand page three times; Instagram: fo
 Weekly tip, Friday customer spotlight, monthly live Q&A; series simplify planning and build habits.
 
 ### Step 3. Block key dates
-Launches, campaigns and events and relevant awareness days that fit the brand.
+Launches, campaigns, events and relevant awareness days that fit the brand.
 
 ### Step 4. Fill with pillar-balanced ideas
 From an idea bank fed by customer questions, comments, sales, support and trends.
