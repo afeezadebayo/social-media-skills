@@ -17,152 +17,170 @@ metadata:
 
 # Social Media Audit
 
-Many brands end up on every platform, posting whatever is easiest, measuring vanity metrics and wondering why social doesn't move the business. A social media audit steps back to check the fundamentals: are the right platforms chosen for the audience, do profiles work, does content perform, is the team capable of responding and listening, and does any of it tie to business goals. It finds what to keep, fix or stop, and hands each finding to a specialist skill.
+Many companies are on every platform and effective on none. Profiles are half finished, posting is irregular, content is the same link pasted across five networks, comments go unanswered and reports show follower counts that nobody connects to business results. Meanwhile platforms keep changing what they reward, from short video to saves and shares to search, and competitors who adapted are taking the attention.
 
-This skill audits an organic social presence end to end: platform fit, profiles, content performance, cadence, community and response times, listening and reputation, voices and advocacy, operations and measurement. It is the entry point for the Social Media set. Paid social sits in the Performance Marketing skills.
+This skill audits an organic social presence end to end: goals, audiences, platform fit, profiles, content performance, formats, community management, listening, people (employees and creators), operations and measurement. It decides where to focus, what to stop and hands each finding to a specialist skill. It is the entry point for the Social Media set. Paid social sits in the Performance Marketing skills.
 
 ## Operating principles
-1. **Fit before effort.** Only invest seriously in platforms where the audience is and the format matches.
-2. **Quality and consistency over coverage.** A few platforms done well beat many done thinly.
-3. **People drive reach.** Founders, experts and employees often outperform brand accounts.
-4. **Community is not optional.** Unanswered comments and messages cost trust.
-5. **Tie to business outcomes.** Awareness, community, traffic, leads, sales, hiring or support deflection.
+1. **Goals and audiences decide platforms.** Be where your audience pays attention, not everywhere.
+2. **Native content wins.** Each platform rewards formats and behaviours made for it.
+3. **Engagement quality over follower counts.** Saves, shares, comments and clicks matter more than likes.
+4. **Community is two-way.** Responding and participating builds more than broadcasting.
+5. **Connect to business outcomes.** Traffic, leads, sales, hiring, support and reputation.
 
 ## Audit areas
 | Area | What to check | Typical finding |
 |---|---|---|
-| 1. Goals and audience | Documented goals and audience per platform | No goals beyond "post regularly" |
-| 2. Platform fit | Where the audience actually is | Presence on platforms the audience barely uses |
-| 3. Profiles | Bios, links, highlights, consistency | Outdated bios, broken links |
-| 4. Content performance | What works by format, topic, hook | A handful of posts drive most results |
-| 5. Cadence and quality | Posting frequency versus capacity | Inconsistent posting, rushed quality |
-| 6. Community and response | Reply times, tone, escalation | Comments and messages ignored for days |
-| 7. Listening and reputation | Monitoring, sentiment, competitor tracking | No listening; crises found by accident |
-| 8. Voices and advocacy | Founders, experts, employees, creators | Only a faceless brand account posts |
-| 9. Operations | Calendar, approvals, tools, roles | No calendar; last-minute posting |
-| 10. Measurement | Metrics tied to goals, reporting cadence | Only followers and likes reported |
+| 1. Goals and audiences | Documented goals per platform, audience definitions | No goals; same plan for every network |
+| 2. Platform fit | Where the audience is active; resources per platform | Active on six platforms, effective on one |
+| 3. Profiles | Names, bios, links, visuals, pinned content, verification | Outdated bios, broken links, inconsistent handles |
+| 4. Content performance | Reach, engagement rate, saves, shares, comments, clicks by post | A few formats drive most engagement |
+| 5. Formats and creative | Video, carousels, text, images, live; hooks and quality | Same link post everywhere; no video |
+| 6. Cadence and timing | Frequency and consistency | Bursts followed by silence |
+| 7. Community management | Response times, tone, moderation, participation | Comments unanswered for days |
+| 8. Listening and reputation | Brand mentions, sentiment, competitor and topic tracking | No monitoring outside own profiles |
+| 9. People | Employees, executives, creators and partners | Founder posts outperform brand; no programme |
+| 10. Operations and measurement | Calendar, approvals, tools, reporting | Reports show followers only |
 
 ## When to use, and when not to
-Use it when a new social lead joins, when engagement or growth stalls, before planning a new quarter, after platform algorithm changes affect reach and when deciding whether to add or drop a platform.
+Use it when social effort feels unproductive, when a new social lead joins, before annual planning, after rebrands and when leadership asks what social achieves.
 
-Don't use it for one post's performance (`social-media-reporting`) or for paid social campaigns (the Performance Marketing skills).
+Don't use it for paid social campaign audits (the Performance Marketing `paid-media-audit` skill) or for content audits across all channels (the Content, Copy and PR `content-marketing-audit` skill).
 
 ## Inputs to ask for, in one message
 1. Business goals and target audiences.
-2. Platforms used, with analytics access for 6 to 12 months.
-3. Current team, roles and tools.
-4. Posting calendar or history.
-5. Community response time data if available.
-6. Any listening or monitoring in place.
+2. List of profiles with handles and access to native analytics for 6 to 12 months.
+3. Web analytics with social traffic and conversions.
+4. Team, tools, approval process and budget.
+5. Competitors and peers to benchmark.
+6. Any listening or community data.
 
 ## Workflow
 
-### Step 1. Confirm goals and audience
-Document per platform if missing; check platforms match where the audience spends time.
+### Step 1. Confirm goals per platform
+Awareness, engagement, traffic, leads, hiring, support or community; one primary goal per platform.
 
-### Step 2. Review profiles
-Bios, links, highlights, visuals, consistency with brand.
+### Step 2. Map audiences to platforms
+Where does the audience spend attention? Use audience data, surveys and competitor presence.
 
-### Step 3. Analyse content performance
-Top and bottom posts by format, topic, hook and voice; patterns in what works.
+### Step 3. Review profiles
+Consistency, completeness, links, visuals and pinned content.
 
-### Step 4. Check cadence against capacity
-Can the team sustain the current posting frequency with quality?
+### Step 4. Analyse content
+Export 6 to 12 months of posts; group by format, topic and hook; compare reach, engagement rate, saves, shares, comments and clicks.
 
-### Step 5. Audit community management
-Sample response times and tone across comments and messages.
+### Step 5. Review community and listening
+Response times, unanswered comments, sentiment, brand mentions off-profile.
 
-### Step 6. Check listening and reputation
-Is anyone monitoring mentions, sentiment and competitors?
+### Step 6. Review people
+Employee, founder and creator activity versus brand accounts.
 
-### Step 7. Review voices and advocacy
-Who posts beyond the brand account? Are employees, founders and creators involved?
+### Step 7. Benchmark
+Two or three competitors or peers: formats, cadence, engagement, community.
 
-### Step 8. Review operations
-Calendar, approval process, tools and capacity.
+### Step 8. Decide
+Focus, maintain or exit per platform; formats to double down on; what to stop.
 
-### Step 9. Review measurement
-Are metrics tied to goals and reported on a cadence that leads to decisions?
+### Step 9. Plan
+90-day priorities with owners and metrics.
 
-### Step 10. Score and plan
-Score each area 0 to 3; decide maintain, improve or exit per platform; build a 90-day plan.
+## Platform decision matrix
+| Audience presence | Our results | Resources | Decision |
+|---|---|---|---|
+| High | Strong | Enough | Focus and scale |
+| High | Weak | Enough | Fix content and community |
+| High | Weak | Low | Focus resources here, cut elsewhere |
+| Low | Any | Any | Maintain minimal presence or exit |
 
-## Platform fit scorecard
-| Platform | Audience presence | Content fit | Current results | Team capacity | Decision |
-|---|---|---|---|---|---|
-| LinkedIn | High | High | Medium | Medium | Invest |
-| Instagram | Medium | High | Low | Low | Improve or reduce |
-| X | Low | Medium | Low | Low | Maintain lightly |
-| TikTok | High | Medium | None yet | Low | Test |
-Score each 0 to 3 and let capacity realistically limit how many platforms get serious investment.
+## Content analysis template
+```
+| Post | Platform | Format | Topic | Hook | Reach | Engagement rate | Saves | Shares | Comments | Clicks | Notes |
+```
+Group results by format and topic; look for patterns rather than single viral posts.
 
-## Content performance review
-List the top 10 and bottom 10 posts over the audit period with format, topic, hook type, voice and key metrics. Patterns in the top posts usually point to formats and topics worth doubling down on.
+## Profile checklist
+- Consistent handle and name across platforms where possible.
+- Bio states who you help and how, in plain words.
+- Link goes to a relevant, working page (with tracking parameters).
+- Profile and cover images current and sized correctly.
+- Pinned or featured content shows your best work.
+- Contact options and business details complete.
+- Verification or official badges where available.
 
-## Community response audit
-Sample 20 to 30 comments and messages across a month; record response time, whether a reply happened at all and tone. Compare against the standards in the `community-building` skill.
-
-## Scoring rubric
-| Score | Meaning |
+## Engagement quality signals
+| Signal | What it suggests |
 |---|---|
-| 0 | Missing or broken |
-| 1 | Present but weak or inconsistent |
-| 2 | Solid and mostly consistent |
-| 3 | Strong, consistent and tied to results |
+| Saves | Content worth returning to |
+| Shares and sends | Content worth recommending |
+| Comments with substance | Conversation and interest |
+| Profile visits and follows after a post | Content that builds an audience |
+| Link clicks and site conversions | Business value |
+| Likes only | Weak signal on its own |
+
+## Response time benchmarks
+Set internal targets, such as replying to comments within a working day and to direct messages within a few hours during business hours, and measure against them monthly. Unanswered questions in public damage trust more than silence anywhere else.
 
 ## Edge cases and judgement calls
 | Situation | What to do |
 |---|---|
-| Small team, many platforms | Recommend focusing on two or three with real capacity |
-| B2B with little social history | Start with LinkedIn and founder voices before broad platform spread |
-| Crisis history | Check listening and escalation processes closely |
-| Agency-run accounts | Audit against the same standards; check reporting transparency |
-| Strong but undocumented success | Capture what's working before changing anything |
+| B2B company | Focus on LinkedIn, YouTube and employee voices before consumer platforms |
+| Consumer brand | Prioritise short video platforms and community |
+| Regulated industry | Add compliance review to operations; keep approved response templates |
+| Founder much bigger than brand | Build around the founder and connect to brand assets |
+| Platform declines or changes | Keep presence light; move effort to where audiences went |
 
 ## Handoffs to specialist skills
-- Strategy and platform choice: `social-media-strategy`
-- Calendar and operations: `social-content-calendar`
-- Platform playbooks: `linkedin-organic`, `instagram-organic`, `tiktok-organic`, `x-twitter-organic`, `youtube-seo-growth`
-- Video: `short-video-scripts`
+- Strategy: `social-media-strategy`
+- LinkedIn: `linkedin-organic`
+- X: `x-twitter-organic`
+- Instagram: `instagram-organic`
+- TikTok: `tiktok-organic`
+- Video scripts: `short-video-scripts`
+- YouTube: `youtube-seo-growth`
+- Calendar and workflow: `social-content-calendar`
 - Community: `community-building`
 - Listening: `social-listening`
-- Voices and advocacy: `creator-employee-advocacy`
+- Creators and employees: `creator-employee-advocacy`
 - Reporting: `social-media-reporting`
 - Paid social: the Performance Marketing skills
 
 ## Worked example
-A fintech startup posted daily across five platforms with a small team, and engagement was falling everywhere. The audit found LinkedIn was the only platform with real audience fit and traction, Instagram and X absorbed most effort for little return, community response times averaged three days, and no one posted as a named person. The 90-day plan focused the team on LinkedIn and a weekly YouTube explainer, reduced Instagram and X to light maintenance, set a same-day community response standard and launched founder posting. Engagement among target roles rose within the quarter, and the team reported less burnout.
+A B2B software company posted the same link to LinkedIn, X, Facebook, Instagram and TikTok three times a week with little engagement. The audit found its audience mainly on LinkedIn and YouTube; posts by the founder and two product managers reached far more people than the brand page; comments often went unanswered; and reports showed only followers. The plan dropped Facebook and TikTok, kept X minimal, focused on native LinkedIn posts from the founder and experts plus the brand page, launched a YouTube tutorial series, set a four-hour response target and moved reporting to engagement quality, traffic and leads.
 
 ## Output format
 ```
 # Social media audit: <brand>, <date>
-## Summary (biggest gap, biggest opportunity, first moves)
-## Platform fit scorecard
-## Area scores
-| Area | Score 0-3 | Key findings | Evidence |
-## Content performance findings
-## Community response findings
-## 90-day plan
-| # | Action | Platform/area | Impact | Effort | Skill | Owner | Re-check |
+## Summary (focus, stop, first moves)
+## Goals and audiences by platform
+## Profile review
+## Content analysis (formats, topics, hooks)
+## Community and listening findings
+## People findings
+## Benchmark
+## Platform decisions and 90-day plan
 ```
 
 ## Common mistakes
-- Spreading thin across every platform.
-- Measuring followers instead of outcomes.
-- No community response standards.
-- Ignoring what already works.
-- No plan to act on findings.
+- Being on every platform with the same content.
+- Judging success by follower counts.
+- Ignoring comments and messages.
+- Overlooking employee and founder voices.
+- No link to business outcomes.
 
 ## Questions to ask before you recommend changes
-- Where does the target audience actually spend time?
-- Which posts and voices already perform best?
-- How much consistent capacity does the team realistically have?
+- Where does your audience actually spend attention?
+- Which posts led to traffic, leads or sales?
+- How quickly do you reply to comments and messages?
 
 ## Self-check before you answer
-- Is platform choice grounded in audience evidence?
-- Are findings based on real performance data?
-- Is community response time checked?
-- Does every action have an owner and a re-check date?
+- Does each platform have a goal and a decision?
+- Are formats and topics analysed, not just single posts?
+- Are community and people reviewed?
+- Is the plan tied to business outcomes?
+
+## Further reading
+- Sprout Social Index: https://sproutsocial.com/insights/index/
+- Hootsuite social media trends: https://www.hootsuite.com/research/social-trends
 
 ---
 Created by Afeez Adebayo, Marketing, SEO & Growth Expert
